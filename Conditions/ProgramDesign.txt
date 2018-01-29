@@ -1,0 +1,26 @@
+
+
+FuncDetectButtonPress()
+
+PrintToLog()
+
+TransmitButtonStateToUART()
+
+UpdateGouge()
+
+
+int main(void)
+{
+
+  Polling\Event;
+
+	//000000000000000010001010110100110100111111111111111111
+	// 000000000000000000000010111111111111111
+
+   23 23 23 23.3 23 23 23 
+	23.1
+
+	1-30 31
+
+
+}
