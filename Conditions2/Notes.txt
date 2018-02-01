@@ -1,0 +1,59 @@
+
+
+
+*
+Number
+
+
+
+******
+nnnn
+1234
+
+grade list
+100 1/n
+98  1/n
+70  1/n
+82  6/n
+90
+88
+
+1) sort
+2) avg, mid
+
+string 
+
+
+TeahcerAssistent
+1) Class avg grade
+2) best student in class
+3) class grades from top
+4)Insert new class grades list
+
+
+index   sum                    avg
+
+0      sum+Grades[0] 0+80=80    0
+1      
+
+
+x y
+
+
+x>5  y<9
+
+printf(   pattern  , arg_list);
+
+//scanf (buffer , );
+
+
+getchar , getch , getche
+
+char t ;
+
+t= j();
+
+`abc
+
+
+
